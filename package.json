@@ -1,0 +1,20 @@
+{
+  "name": "qq-bot-plugin-random-image",
+  "version": "1.0.0",
+  "type": "module",
+  "license": "MIT",
+  "private": true,
+  "description": "QQ Bot 随机图片插件：按分类调用 uapis.cn 随机图片接口。",
+  "scripts": {
+    "build": "qq-plugin build",
+    "test": "npm run build && node --test tests/*.test.mjs",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@qq-bot/plugin-sdk": "https://github.com/AnnaofArendelle/qq-bot-plugin-sdk/releases/download/v1.0.0/qq-bot-plugin-sdk-1.0.0.tgz",
+    "typescript": "5.9.3"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

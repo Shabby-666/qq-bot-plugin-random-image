@@ -1,6 +1,6 @@
 # QQ Bot 随机图片插件（random-image）
 
-基于 [qq-bot-plugin-sdk](https://github.com/AnnaofArendelle/qq-bot-plugin-sdk) v1 的 QQ 机器人插件，按分类调用
+基于 [qq-bot-plugin-sdk](https://github.com/MoeBotOfficial/MoeBot-Plugin-SDK) v1 的 QQ 机器人插件，按分类调用
 [uapis.cn 随机图片接口](https://uapis.cn/docs/api-reference/get-random-image) 出图。
 
 - 插件 ID：`random-image`

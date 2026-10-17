@@ -11,7 +11,7 @@
     "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
-    "@qq-bot/plugin-sdk": "https://github.com/AnnaofArendelle/qq-bot-plugin-sdk/releases/download/v1.0.0/qq-bot-plugin-sdk-1.0.0.tgz",
+    "@qq-bot/plugin-sdk": "https://github.com/MoeBotOfficial/MoeBot-Plugin-SDK/releases/download/v1.0.0/qq-bot-plugin-sdk-1.0.0.tgz",
     "typescript": "5.9.3"
   },
   "engines": {
